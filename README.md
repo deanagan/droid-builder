@@ -1,6 +1,6 @@
 # planning-board
 This is a basic planning-board app to help with basic work organization.
-Images downloaded from freepngs.com
+Images/Icons downloaded from freepngs.com
 
 ## Project setup
 ```
