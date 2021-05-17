@@ -1,4 +1,4 @@
-# planning-board
+# Planning Board Project using Vuejs
 This is a basic planning-board app to help with basic work organization.
 Images/Icons downloaded from freepngs.com
 
